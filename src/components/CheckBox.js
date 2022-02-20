@@ -8,6 +8,7 @@ function CheckBox({children, checked, ...rest}){
                 <div>{checked ? '체크됨' : '체크 안됨'}</div>
             </label>
             <span>{children}</span>
+            dasd
         </div>
     )
 }
