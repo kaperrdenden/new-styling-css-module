@@ -10,6 +10,7 @@ function CheckBox({children, checked, ...rest}){
             <span>{children}</span>
             dasd
         </div>
+        
     )
 }
 
